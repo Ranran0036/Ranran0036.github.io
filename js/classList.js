@@ -1,69 +1,54 @@
 let classList = [
-    {
-        name : '中国古建筑史论',
+    {name : 'BIM与建筑数字技术',
         detial : [
-            {weeks : '3-10' , days : 1 , dayTime : [5,6] , classroom : '金16教314'},
-            {weeks : '3-10' , days : 2 , dayTime : [1,2] , classroom : '金16教314'}
+            {weeks : '9-16' , days : 2 , dayTime : [1,2] , classroom : '金16教319'},
+            {weeks : '9-16' , days : 3 , dayTime : [1,2] , classroom : '金16教319'}
         ],
-        teacher : '严钧',
+        teacher : '王浩钰',
         bgColor : ''
     },
     {
-        name : '建筑创作方法论',
+        name : '工程伦理',
         detial : [
-            {weeks : '11-18' , days : 3 , dayTime : [1,3,4] , classroom : '金16教317'}
+            {weeks : '1-8' , days : 3 , dayTime : [1,2] , classroom : '金1A-104'}
         ],
-        teacher : '王蓉',
+        teacher : '陈万球',
         bgColor : ''
     },
     {
-        name : '注册建筑师、规划师理论与实践',
+        name : 'GIS技术与应用',
         detial : [
-            {weeks : '3-10' , days : 3 , dayTime : [1,2] , classroom : '金16教314'},
-            {weeks : '3-10' , days : 4 , dayTime : [1,2] , classroom : '金16教314'}
+            {weeks : '9-16' , days : 3 , dayTime : [3,4] , classroom : '金16教503'},
+            {weeks : '9-16' , days : 5 , dayTime : [3,4] , classroom : '金16教503'}
         ],
-        teacher : '许建和',
+        teacher : '俞晓莹',
         bgColor : ''
     },
     {
-        name : '建筑设计与实践',
+        name : '乡村发展与规划实践',
         detial : [
-            {weeks : '11-18' , days : 3 , dayTime : [5,6,7,8] , classroom : '金16教317'}
+            {weeks : '1-8' , days : 3 , dayTime : [3,4] , classroom : '金16教313'},
+            {weeks : '1-8' , days : 5 , dayTime : [3,4] , classroom : '金16教313'}
         ],
-        teacher : '吕昀',
+        teacher : '王铁',
         bgColor : ''
     },
     {
-        name : '绿色建筑与建筑节能',
+        name : '建筑遗产保护理论与实践',
         detial : [
-            {weeks : '3-10' , days : 4 , dayTime : [3,4] , classroom : '金16教205'},
-            {weeks : '3-10' , days : 5 , dayTime : [5,6] , classroom : '金16教205'}
+            {weeks : '9-16' , days : 3 , dayTime : [5,6] , classroom : '金16教314'},
+            {weeks : '9-16' , days : 5 , dayTime : [5,6] , classroom : '金16教314'}
         ],
-        teacher : '肖敏',
+        teacher : '田长青',
         bgColor : ''
     },
     {
-        name : '城市设计理论与前沿',
+        name : '中国特色社会主义理论与实践研究',
         detial : [
-            {weeks : '11-18' , days : 4 , dayTime : [5,6,7,8] , classroom : '金16教503'}
+            {weeks : '1-9' , days : 4 , dayTime : [1,2] , classroom : '金1A-401'},
+            {weeks : '1-9' , days : 5 , dayTime : [1,2] , classroom : '金1A-401'}
         ],
-        teacher : '刘丹',
-        bgColor : ''
-    },
-    {
-        name : '自然辩证法概论',
-        detial : [
-            {weeks : '3-11' , days : 1 , dayTime : [3,4] , classroom : '金1A-104'}
-        ],
-        teacher : '刘佳男',
-        bgColor : ''
-    },
-    {
-        name : '工程硕士英语',
-        detial : [
-            {weeks : '3-18' , days : 5 , dayTime : [3,4] , classroom : '金4-109'}
-        ],
-        teacher : '马彦',
+        teacher : '周靖',
         bgColor : ''
     }
 ]

@@ -63,8 +63,8 @@ let getNowAdays = () => {
 
     //s设置2019/25是第四周
     let targetDate = new Date();
-    targetDate.setFullYear(2019 , 8 , 23);
-    let targetWeekNum = 4;
+        targetDate.setFullYear(2020 , 3 , 13);
+        let targetWeekNum = 9;
 
     //与目标日期相隔的周数
     let diffWeekNum = parseInt((parseInt(Math.abs(nowAdays - targetDate ) / 1000 / 60 / 60 /24) + 1) / 7);
