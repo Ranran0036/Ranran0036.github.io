@@ -1,2 +1,2 @@
-# classSchedule.github.io
-a classSchedule
+
+solve Sudoku
